@@ -1,0 +1,13 @@
+body{
+    margin: 20px 15px;
+}
+
+.cabecalho1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cabecalho1 .figure_cabecalho1 img{
+    width: 70px;
+    height: 40px;
+}
